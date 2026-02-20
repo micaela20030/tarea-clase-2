@@ -21,7 +21,7 @@ function cambio() {
     contador = contador + 1
     titulo.textContent = contador
     
-    document.body.style.backgroundColor = 'red'
+    document.body.style.background = 'linear-gradient(135deg, #ff9050, #ff4d4d)'
 }
 
 
